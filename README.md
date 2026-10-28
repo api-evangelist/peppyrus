@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Peppyrus is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://peppyrus.be/
+Peppyrus provides a free Peppol Access Point, enabling businesses to connect to the global e‑invoicing network. It offers both a test environment (https://api.test.peppyrus.be/v1) and a production API (https://api.peppyrus.be/v1) for seamless integration, along with a customer portal for managing invoices and licenses. The service is certified, developer‑friendly, and includes free and paid plans.
+
+**Areas:** Company · Peppol · E‑invoicing · API · Free · Developer-friendly
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://peppyrus.be/)
+- [Documentation](https://api.peppyrus.be/v1/openapi.json)
+- [Getting started](https://peppyrus.be/en#get-started)
+- [API reference](https://api.peppyrus.be/v1/openapi.json)
+- [Sign up](https://customer.peppyrus.be/register?language=en)
+- [Support](https://customer.peppyrus.be/login?language=en)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/peppyrus/](https://apis.io/providers/peppyrus/).
